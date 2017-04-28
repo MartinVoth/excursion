@@ -24,9 +24,15 @@ h2 {
 
 .copyright {
   text-align: right;
+  font-weight: normal;
 }
 
 h3 {
   color: Gray;
   font-size: 21px;
+  font-weight: normal;
+}
+
+h1, h2 {
+  font-weight: bold;
 }
